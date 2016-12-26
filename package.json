@@ -1,0 +1,22 @@
+{
+    "name": "theme-northem-dark",
+    "displayName": "northem-dark",
+    "description": "VS Code Northem Dark Synatx Theme Ported from Atom!",
+    "version": "0.0.1",
+    "publisher": "zouhir",
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "northem-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/northem-dark.tmTheme"
+            }
+        ]
+    }
+}
