@@ -2,7 +2,7 @@
     "name": "theme-northem-dark",
     "displayName": "Northem Dark",
     "description": "A north-bluish, dark clean and elegant syntax theme",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "zouhir",
     "engines": {
         "vscode": "^1.5.0"
@@ -21,7 +21,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "northem-dark",
+                "label": "Northem Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/northem-dark.tmTheme"
             }
