@@ -1,24 +1,26 @@
 # Northem Dark Syntax [VS Code](https://code.visualstudio.com/)
 > A north-bluish, dark clean and elegant syntax theme ported from [northem-dark-atom-syntax](https://atom.io/themes/northem-dark-atom-syntax) and designed for a fluent and clear workflow.
 
-**<img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> HTML Preview**
+## <img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> HTML Preview
+![HTML PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/html.png?raw=true)
 
-**<img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> JS / JSX Preview**
+## <img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> JS / JSX Preview
+![JS / JSX PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/js.png?raw=true)
 
-**<img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> JS / JSX Preview**
+## <img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> *CSS Preview
+![CSS PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/css.png?raw=true)
 
-**<img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> CSS / Less, Scss, etc.. Preview**
+## <img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> MD Preview
+![MD PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/md.png?raw=true)
 
-**<img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> MD Preview**
+## <img src='https://code.visualstudio.com/images/favicon.ico' width=16 height=16 /> Palette
+![Palette PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/palette.png?raw=true)
 
+## Future Work
+More languages scopes will be added to give even a better look and feel.
 
-## Install
+### Credits
+* [Atom Theme Original Authors Arctic Ice Studio](https://github.com/arcticicestudio/northem-dark-atom-syntax)
 
-
-
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### License
+MIT (c) [Zouhir Chahoud](https://twitter.com/_zouhir)
