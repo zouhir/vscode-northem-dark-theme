@@ -6,6 +6,7 @@
 
 ## <img src='https://code.visualstudio.com/images/favicon.ico' width=20 height=20 /> JS / JSX Preview
 ![JS / JSX PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/js.png?raw=true)
+![JS / JSX PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/jsx.png?raw=true)
 
 ## <img src='https://code.visualstudio.com/images/favicon.ico' width=20 height=20 /> *CSS Preview
 ![CSS PREVIEW](https://github.com/zouhir/vscode-northem-dark-theme/blob/master/assets/css.png?raw=true)
